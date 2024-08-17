@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/innovationtech1/smartpests.git/static/css/main.5acfdd70.chunk.css",
-    "main.js": "/innovationtech1/smartpests.git/static/js/main.758e390f.chunk.js",
-    "main.js.map": "/innovationtech1/smartpests.git/static/js/main.758e390f.chunk.js.map",
-    "runtime~main.js": "/innovationtech1/smartpests.git/static/js/runtime~main.235d92dd.js",
-    "runtime~main.js.map": "/innovationtech1/smartpests.git/static/js/runtime~main.235d92dd.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/innovationtech1/smartpests.git/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/innovationtech1/smartpests.git/static/js/2.bbc244fd.chunk.js.map",
-    "index.html": "/innovationtech1/smartpests.git/index.html",
-    "precache-manifest.5e31a0c23e5511154eae8fc124bd26e2.js": "/innovationtech1/smartpests.git/precache-manifest.5e31a0c23e5511154eae8fc124bd26e2.js",
-    "service-worker.js": "/innovationtech1/smartpests.git/service-worker.js",
-    "static/css/main.5acfdd70.chunk.css.map": "/innovationtech1/smartpests.git/static/css/main.5acfdd70.chunk.css.map",
-    "static/media/logo192.png": "/innovationtech1/smartpests.git/static/media/logo192.67920950.png"
+    "main.css": "/smartpests/static/css/main.5acfdd70.chunk.css",
+    "main.js": "/smartpests/static/js/main.758e390f.chunk.js",
+    "main.js.map": "/smartpests/static/js/main.758e390f.chunk.js.map",
+    "runtime~main.js": "/smartpests/static/js/runtime~main.7699d1a0.js",
+    "runtime~main.js.map": "/smartpests/static/js/runtime~main.7699d1a0.js.map",
+    "static/js/2.bbc244fd.chunk.js": "/smartpests/static/js/2.bbc244fd.chunk.js",
+    "static/js/2.bbc244fd.chunk.js.map": "/smartpests/static/js/2.bbc244fd.chunk.js.map",
+    "index.html": "/smartpests/index.html",
+    "precache-manifest.0d4ee54d3511107232c7df23cb1d34e7.js": "/smartpests/precache-manifest.0d4ee54d3511107232c7df23cb1d34e7.js",
+    "service-worker.js": "/smartpests/service-worker.js",
+    "static/css/main.5acfdd70.chunk.css.map": "/smartpests/static/css/main.5acfdd70.chunk.css.map",
+    "static/media/logo192.png": "/smartpests/static/media/logo192.67920950.png"
   }
 }
