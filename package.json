@@ -2,7 +2,7 @@
   "name": "smartpets",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/innovationtech1/smartpests.git",
+  "homepage":"https://innovationtech1.github.io/smartpests/",
   "dependencies": {
     "@babel/core": "^7.24.7",
     "@babel/plugin-transform-private-property-in-object": "^7.24.7",
