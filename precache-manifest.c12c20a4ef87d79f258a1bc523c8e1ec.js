@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afd5e8e45d3548b592a7dfae49865676",
+    "revision": "9a5d6c74eaef1c62b2d8adb22a3502fc",
     "url": "/smartpests/index.html"
   },
   {
