@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/innovationtech1/smartpests.git/static/css/main.359bda72.chunk.css",
+    "main.css": "/innovationtech1/smartpests.git/static/css/main.5acfdd70.chunk.css",
     "main.js": "/innovationtech1/smartpests.git/static/js/main.758e390f.chunk.js",
     "main.js.map": "/innovationtech1/smartpests.git/static/js/main.758e390f.chunk.js.map",
     "runtime~main.js": "/innovationtech1/smartpests.git/static/js/runtime~main.235d92dd.js",
@@ -8,9 +8,9 @@
     "static/js/2.bbc244fd.chunk.js": "/innovationtech1/smartpests.git/static/js/2.bbc244fd.chunk.js",
     "static/js/2.bbc244fd.chunk.js.map": "/innovationtech1/smartpests.git/static/js/2.bbc244fd.chunk.js.map",
     "index.html": "/innovationtech1/smartpests.git/index.html",
-    "precache-manifest.cc72089552c2ca02e90f5d4f0ecb575e.js": "/innovationtech1/smartpests.git/precache-manifest.cc72089552c2ca02e90f5d4f0ecb575e.js",
+    "precache-manifest.5e31a0c23e5511154eae8fc124bd26e2.js": "/innovationtech1/smartpests.git/precache-manifest.5e31a0c23e5511154eae8fc124bd26e2.js",
     "service-worker.js": "/innovationtech1/smartpests.git/service-worker.js",
-    "static/css/main.359bda72.chunk.css.map": "/innovationtech1/smartpests.git/static/css/main.359bda72.chunk.css.map",
+    "static/css/main.5acfdd70.chunk.css.map": "/innovationtech1/smartpests.git/static/css/main.5acfdd70.chunk.css.map",
     "static/media/logo192.png": "/innovationtech1/smartpests.git/static/media/logo192.67920950.png"
   }
 }

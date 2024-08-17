@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0dd37f4bf4e4496bf8f7e256e6e5b00",
+    "revision": "7e110ac53e29b24b9df77b902ee72199",
     "url": "/innovationtech1/smartpests.git/index.html"
   },
   {
-    "revision": "77463ab977686b3a1cb9",
-    "url": "/innovationtech1/smartpests.git/static/css/main.359bda72.chunk.css"
+    "revision": "45e6ae6f6c53b689f466",
+    "url": "/innovationtech1/smartpests.git/static/css/main.5acfdd70.chunk.css"
   },
   {
     "revision": "aea54c2cc0e9daa36ce6",
     "url": "/innovationtech1/smartpests.git/static/js/2.bbc244fd.chunk.js"
   },
   {
-    "revision": "77463ab977686b3a1cb9",
+    "revision": "45e6ae6f6c53b689f466",
     "url": "/innovationtech1/smartpests.git/static/js/main.758e390f.chunk.js"
   },
   {
