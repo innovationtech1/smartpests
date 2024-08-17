@@ -5,8 +5,10 @@
   "homepage": "https://github.com/innovationtech1/smartpests.git",
   "dependencies": {
     "@babel/core": "^7.24.7",
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
     "@babel/preset-react": "^7.24.7",
+    "@popperjs/core": "^2.11.8",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -17,7 +19,7 @@
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "react-slick": "^0.30.2",
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
