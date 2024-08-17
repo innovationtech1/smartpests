@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/innovationtech1/smartpests.git/precache-manifest.56e688584fa0bdc21a61db60667b00c2.js"
+  "/innovationtech1/smartpests.git/precache-manifest.cc72089552c2ca02e90f5d4f0ecb575e.js"
 );
 
 self.addEventListener('message', (event) => {

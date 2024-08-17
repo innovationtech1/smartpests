@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a04d68be2059b2aa2e4c97abb88b37b5",
+    "revision": "c0dd37f4bf4e4496bf8f7e256e6e5b00",
     "url": "/innovationtech1/smartpests.git/index.html"
   },
   {
-    "revision": "ec826ef32771622d1cc4",
+    "revision": "77463ab977686b3a1cb9",
     "url": "/innovationtech1/smartpests.git/static/css/main.359bda72.chunk.css"
   },
   {
@@ -12,16 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/innovationtech1/smartpests.git/static/js/2.bbc244fd.chunk.js"
   },
   {
-    "revision": "ea935f47a7b92aa14dc7",
-    "url": "/innovationtech1/smartpests.git/static/js/3.a29efab2.chunk.js"
+    "revision": "77463ab977686b3a1cb9",
+    "url": "/innovationtech1/smartpests.git/static/js/main.758e390f.chunk.js"
   },
   {
-    "revision": "ec826ef32771622d1cc4",
-    "url": "/innovationtech1/smartpests.git/static/js/main.9734e1b1.chunk.js"
-  },
-  {
-    "revision": "003ca5345f637d8baee3",
-    "url": "/innovationtech1/smartpests.git/static/js/runtime~main.9f9e5512.js"
+    "revision": "ce9ad3143cdfb9206315",
+    "url": "/innovationtech1/smartpests.git/static/js/runtime~main.235d92dd.js"
   },
   {
     "revision": "67920950391803d46acd45ec44a85fc2",
