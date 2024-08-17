@@ -5,6 +5,15 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  border-radius: 30px;
+}
+
+.subtitle {
+  font-size: 30px;
+  font-weight: 500; 
+  font-family: "Matemasie", sans-serif;
+  text-shadow:5px 5px 5px purple ;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +23,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #a2a2a2;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,11 +37,4 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
